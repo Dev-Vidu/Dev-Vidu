@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Dev-Vidu
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on inspiring projects. 
-- ⚡ Fun fact: i love to code i love to code i love to code. isn't it funny? Well it is, that's why I love it. LOL.
+👋 Hi there! I'm Upeksha Vidu Wijayananda aka Vidu, an aspiring web developer passionate about crafting beautiful and functional websites.
 
-<!---
-Dev-Vidu/Dev-Vidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently, I'm honing my skills in HTML, CSS, and JavaScript, eager to dive deeper into the world of web development.
+
+💻 I love collaborating on projects and learning from others, so feel free to reach out if you're interested in working together!
+
+🌱 When I'm not coding, you can find me exploring new workout routines, practicing yoga, or planning my next solo adventure.
